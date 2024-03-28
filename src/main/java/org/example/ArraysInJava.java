@@ -1,7 +1,6 @@
 package org.example;
 
 import java.util.Arrays;
-import java.util.SortedMap;
 
 public class ArraysInJava {
     public static void main(String[] args) {
